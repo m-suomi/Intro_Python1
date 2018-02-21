@@ -13,4 +13,6 @@ for a in range(1,7):
                                 print (a, b, c, d, e, f)
                                 print (ans)
 
+# instead of doing all the a!=, etc; this is another way to form that criteria if a not in (b,c,d,e,f) and b not in (c,d,e,f), etc.
+
 #'a = ' + str(a) + 'b = ' + str(b) + 'c = ' + str(c)
